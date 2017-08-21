@@ -9,6 +9,7 @@
    * [5.基本数据类型元组](chapter0105.md)
    * [6.基本数据类型集合](chapter0106.md)
    * [7.数据转换](chapter0107.md)
+   * [8.使用virtualenv虚拟环境](chapter0108.md)
 * [第二章 运算符/表达式 流程控制 异常](chapter02.md)
    * [1.流程控制](chapter0201.md)
    * [2.异常与动态表达式](chapter0202.md)
@@ -19,6 +20,6 @@
 * [第七章 文件IO](chapter07.md)
 * [第八章 编码](chapter08.md)
 * [第九章 爬虫技术](chapter09.md)
-* [第十章](chapter10.md)
+* [第十章 virtualenv的使有 ](chapter10.md)
 * [第十一章 学习资源整理](chapter11.md)
 
