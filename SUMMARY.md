@@ -21,5 +21,6 @@
 * [第八章 编码](chapter08.md)
 * [第九章 爬虫技术](chapter09.md)
 * [第十章 virtualenv的使有 ](chapter10.md)
+* [第十一章 Django的使有 ](chapter12.md)
 * [第十一章 学习资源整理](chapter11.md)
 
